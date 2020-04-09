@@ -6,6 +6,7 @@ pipeline {
                 echo "aaa"
                 echo "111"
                 echo "2222"
+                echo "3"
             }
         }
     }
