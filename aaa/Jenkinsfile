@@ -7,7 +7,7 @@ pipeline {
                 echo "111"
                 echo "2222"
                 echo "3"
-                echo "4"
+                echo "44"
             }
         }
     }
