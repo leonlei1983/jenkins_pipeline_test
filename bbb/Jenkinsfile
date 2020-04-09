@@ -5,6 +5,7 @@ pipeline {
             steps {
                 echo "bbb"
                 echo "111"
+                echo "222"
             }
         }
     }
