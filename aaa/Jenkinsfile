@@ -6,8 +6,8 @@ pipeline {
                 echo "aaa"
                 echo "111"
                 echo "2222"
-                echo "3"
-                echo "44"
+                echo "333"
+                echo "4444"
             }
         }
     }
